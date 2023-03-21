@@ -15,4 +15,4 @@ function! Compile() abort
 
 endfunction
 
-command! ScssCmp call Compile()
+command! ScssCompile call Compile()
