@@ -10,7 +10,7 @@ function! Compile() abort
 
   else 
 
-    echo "This is not c or cpp file."
+    echo "This is not a c or cpp file."
 
   endif
 
