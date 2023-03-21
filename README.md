@@ -1,1 +1,1 @@
-# my-Excommand
+自作Exコマンド
