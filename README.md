@@ -2,6 +2,8 @@
 <br><br>
 # <a href="./execute.vim">execute.vim</a>
 
+## ターミナルのプラグイン
+<a href='https://github.com/kassio/neoterm'>kassio/neoterm</a>
 
 ## 各言語をVim上で実行
 - C C++
