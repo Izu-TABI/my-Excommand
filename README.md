@@ -4,7 +4,6 @@
 # <a href="./execute.vim">execute.vim</a> <br><br>
 
 ## 各言語をVim上で実行
-## 各言語をVim上で実行
 - C C++
 - Python
 - SCSS
