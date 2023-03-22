@@ -1,6 +1,5 @@
 # 自作Exコマンド
 <br><br>
-
 # <a href="./execute.vim">execute.vim</a>
 
 
@@ -10,6 +9,5 @@
 - SCSS
 
 ## 使いやすいマッピング
-`nnoremap <c-t> :Execute<CR>  
-tnoremap <c-t><c-t>  <C-\><C-n><CR>
-`
+`nnoremap <c-t> :Execute<CR>`<br>  
+`tnoremap <c-t><c-t>  <C-\><C-n><CR> `
