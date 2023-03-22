@@ -1,7 +1,8 @@
 # 自作Exコマンド
 <br><br>
 
-# <a href="./execute.vim">execute.vim</a> <br><br>
+# <a href="./execute.vim">execute.vim</a>
+
 
 ## 各言語をVim上で実行
 - C C++
